@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5",
+    "tytul": "Gambit Królowej",
+    "dataWydania": "2020-10-23",
+    "wydawnictwo": "Wydawnictwo Czarne",
+    "kategoria": "Literatura piękna",
+    "opis": "W wieku ośmiu lat Beth Harmon trafia do sierocińca. Tam wkrótce odkrywa swoje dwie największe miłości: grę w szachy i środki odurzające. Szachów uczy się w piwnicy, pod okiem gburowatego woźnego, który szybko poznaje się na jej niezwykłym talencie. Małe zielone pigułki są podawane jej i innym maluchom, żeby w domu dziecka łatwiej było utrzymać spokój.\n\nObie obsesje będą towarzyszyć Beth, kiedy opuści dom dziecka, przeniesie się do rodziny adopcyjnej i spróbuje zbudować dla siebie nowe życie. Wspinając się na szczyty amerykańskich, a potem światowych rankingów szachowych, będzie się równocześnie mierzyć z własnym pragnieniem samozniszczenia.\n\n\"Gambit królowej\" to przepiękna książka o samotności i przyjaźni, rywalizacji i współpracy, zagubieniu i poszukiwaniu sensu życia.",
+    "autor": "Tevis Walter",
+    "variant": "warning"
+  },
+  {
+    "id": "6",
+    "tytul": "Gambit Królowej",
+    "dataWydania": "2020-10-23",
+    "wydawnictwo": "Wydawnictwo Czarne",
+    "kategoria": "Literatura piękna",
+    "opis": "W wieku ośmiu lat Beth Harmon trafia do sierocińca. Tam wkrótce odkrywa swoje dwie największe miłości: grę w szachy i środki odurzające. Szachów uczy się w piwnicy, pod okiem gburowatego woźnego, który szybko poznaje się na jej niezwykłym talencie. Małe zielone pigułki są podawane jej i innym maluchom, żeby w domu dziecka łatwiej było utrzymać spokój.\n\nObie obsesje będą towarzyszyć Beth, kiedy opuści dom dziecka, przeniesie się do rodziny adopcyjnej i spróbuje zbudować dla siebie nowe życie. Wspinając się na szczyty amerykańskich, a potem światowych rankingów szachowych, będzie się równocześnie mierzyć z własnym pragnieniem samozniszczenia.\n\n\"Gambit królowej\" to przepiękna książka o samotności i przyjaźni, rywalizacji i współpracy, zagubieniu i poszukiwaniu sensu życia.",
+    "autor": "Tevis Walter",
+    "variant": "info"
+  },
+  {
+    "id": "8",
+    "tytul": "Królowej",
+    "dataWydania": "2020-10-23",
+    "wydawnictwo": "Wydawnictwo Czarne",
+    "kategoria": "Literatura piękna",
+    "opis": "W wieku ośmiu lat Beth Harmon trafia do sierocińca. Tam wkrótce odkrywa swoje dwie największe miłości: grę w szachy i środki odurzające. Szachów uczy się w piwnicy, pod okiem gburowatego woźnego, który szybko poznaje się na jej niezwykłym talencie. Małe zielone pigułki są podawane jej i innym maluchom, żeby w domu dziecka łatwiej było utrzymać spokój.\n\nObie obsesje będą towarzyszyć Beth, kiedy opuści dom dziecka, przeniesie się do rodziny adopcyjnej i spróbuje zbudować dla siebie nowe życie. Wspinając się na szczyty amerykańskich, a potem światowych rankingów szachowych, będzie się równocześnie mierzyć z własnym pragnieniem samozniszczenia.\n\n\"Gambit królowej\" to przepiękna książka o samotności i przyjaźni, rywalizacji i współpracy, zagubieniu i poszukiwaniu sensu życia.",
+    "autor": "Tevis Walter",
+    "variant": "dark"
+  },
+  {
+    "id": 9,
+    "tytul": "",
+    "dataWydania": "",
+    "wydawnictwo": "",
+    "kategoria": "",
+    "opis": "",
+    "autor": "",
+    "variant": "light"
+  },
+  {
+    "id": 10,
+    "tytul": "",
+    "dataWydania": "",
+    "wydawnictwo": "",
+    "kategoria": "",
+    "opis": "",
+    "autor": "",
+    "variant": "info"
+  },
+  {
+    "id": 11,
+    "tytul": "",
+    "dataWydania": "",
+    "wydawnictwo": "",
+    "kategoria": "",
+    "opis": "",
+    "autor": "",
+    "variant": "info"
+  }
+]

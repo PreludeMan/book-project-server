@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "login": "admin",
+    "haslo": "admin",
+    "uprawnienia": "admin",
+    "ulubione": [
+      "7",
+      "1",
+      "12",
+      "13",
+      "15",
+      "16"
+    ]
+  },
+  {
+    "id": "2",
+    "login": "user",
+    "haslo": "xdd",
+    "uprawnienia": "admin",
+    "ulubione": []
+  },
+  {
+    "id": "3",
+    "login": "asd",
+    "haslo": "asd",
+    "uprawnienia": "admin",
+    "ulubione": [
+      "1",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": "7",
+    "login": "asdd",
+    "haslo": "asd",
+    "uprawnienia": "user",
+    "ulubione": []
+  },
+  {
+    "id": "8",
+    "login": "user1",
+    "haslo": "user1",
+    "uprawnienia": "user",
+    "ulubione": []
+  }
+]

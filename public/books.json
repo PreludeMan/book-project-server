@@ -1,0 +1,145 @@
+[
+  {
+    "id": "5",
+    "tytul": "Gambit a",
+    "dataWydania": "2020-10-23",
+    "wydawnictwo": "Wydawnictwo Czarne",
+    "kategoria": "Literatura piękna",
+    "opis": "W wieku ośmiu lat Beth Harmon trafia do sierocińca. Tam wkrótce odkrywa swoje dwie największe miłości: grę w szachy i środki odurzające. Szachów uczy się w piwnicy, pod okiem gburowatego woźnego, który szybko poznaje się na jej niezwykłym talencie. Małe zielone pigułki są podawane jej i innym maluchom, żeby w domu dziecka łatwiej było utrzymać spokój.\n\nObie obsesje będą towarzyszyć Beth, kiedy opuści dom dziecka, przeniesie się do rodziny adopcyjnej i spróbuje zbudować dla siebie nowe życie. Wspinając się na szczyty amerykańskich, a potem światowych rankingów szachowych, będzie się równocześnie mierzyć z własnym pragnieniem samozniszczenia.\n\n\"Gambit królowej\" to przepiękna książka o samotności i przyjaźni, rywalizacji i współpracy, zagubieniu i poszukiwaniu sensu życia.",
+    "autor": "Tevis Walter",
+    "variant": "danger",
+    "img": "45823653_2156721057877129_5020605701446172672_n.jpg"
+  },
+  {
+    "id": 16,
+    "tytul": "AsdfAsdf",
+    "dataWydania": "",
+    "wydawnictwo": "",
+    "kategoria": "",
+    "opis": "",
+    "autor": "",
+    "variant": "dark",
+    "img": "45823653_2156721057877129_5020605701446172672_n.jpg"
+  },
+  {
+    "id": 17,
+    "tytul": "React 16. Framework",
+    "dataWydania": "2000-10-04",
+    "wydawnictwo": "Helios",
+    "kategoria": "Naukowe",
+    "opis": "W ostatnich latach JavaScript stał się pełnoprawnym i pełnowartościowym językiem programowania. Jest wszechstronny, elastyczny i pozwala na tworzenie znakomitego kodu. Uzyskanie dobrych efektów wymaga jednak od programisty sporych umiejętności. Wyjątkowo przydatnym rozwiązaniem okazują się frameworki, które ułatwiają pisanie nawet bardzo złożonych aplikacji. Na szczególną uwagę zasługuje React - popularny framework do tworzenia dynamicznych aplikacji w JavaScripcie. React jest narzędziem, które w stosunkowo prosty sposób pozwala w pełni wykorzystać możliwości nowoczesnych przeglądarek i urządzeń mobilnych.",
+    "autor": "Adam Freeman",
+    "variant": "light",
+    "img": "react-16.jpg"
+  },
+  {
+    "id": 18,
+    "tytul": "TypeScript. Od początkującego",
+    "dataWydania": "2016-11-16",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "JavaScript dojrzał i stał się pełnowartościowym językiem programowania. Jest wszechstronny, elastyczny i pozwala na tworzenie znakomitego kodu, jednak uzyskiwanie naprawdę dobrych efektów wymaga sporych umiejętności. Z tego powodu warto zainteresować się TypeScriptem, który w porównaniu z JavaScriptem o wiele lepiej spisuje się jako język programowania profesjonalnych aplikacji internetowych.",
+    "autor": "Adam Freeman",
+    "variant": "primary",
+    "img": "tspopr.jpg"
+  },
+  {
+    "id": 19,
+    "tytul": "React i Redux",
+    "dataWydania": "2019-10-08",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "React służy do budowy złożonych jednostronicowych aplikacji WWW. Jest biblioteką języka JavaScript, utworzoną i udostępnianą przez Facebook na licencji open source. Biblioteka ta oferuje wiele gotowych komponentów i innych przydatnych funkcji. Pozwala rozwiązywać często powtarzające się i uciążliwe problemy programistyczne w zaskakująco prosty sposób. Pierwsze próby programowania przy użyciu biblioteki React mogą jednak sprawiać trudności. Podobnie jak z innymi narzędziami dla profesjonalistów - aby docenić jej zalety, trzeba ją poznać.",
+    "autor": "Kirupa Chinnathambi",
+    "variant": "secoundary",
+    "img": "react-i-redux.jpg"
+  },
+  {
+    "id": 20,
+    "tytul": "AngularJS. Profesjonalne techniki",
+    "dataWydania": "2012-12-19",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "AngularJS to szkielet do tworzenia zaawansowanych aplikacji JavaScript, wykorzystujący w pełni możliwości współczesnych przeglądarek internetowych. Pozwala on na stosowanie wzorca MVC (ang. Model View Controller) po stronie klienta, a co za tym idzie, na zachowanie wysokiej jakości oraz przejrzystej struktury kodu nawet w przypadku aplikacji intensywnie używających komunikacji sieciowej. Za tym popularnym szkieletem stoi firma Google, która dba o jego ciągły rozwój.",
+    "autor": "Adam Freeman",
+    "variant": "dark",
+    "img": "angupt.jpg"
+  },
+  {
+    "id": 21,
+    "tytul": "Efektywny JavaScript",
+    "dataWydania": "2019-11-26",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "JavaScript jeszcze do niedawna kojarzył się głównie ze stronami oraz aplikacjami internetowymi, a jego głównym zastosowaniem były operacje na drzewie DOM. Jednak te czasy mijają, a język ten jest coraz chętniej wykorzystywany również po stronie serwera. JavaScript jako pełnoprawny język programowania? Oczywiście! W dodatku okazuje się, że może on być bardzo wydajny, elastyczny i przyjazny dla programistów — wystarczy przestrzegać kilku zasad!",
+    "autor": "David Herman",
+    "variant": "primary",
+    "img": "efprjs.jpg"
+  },
+  {
+    "id": 22,
+    "tytul": "JavaScript i jQuery",
+    "dataWydania": "2011-12-20",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "JavaScript to język, który w dużej mierze ukształtował współczesne strony WWW. Dzięki niemu możemy swobodnie korzystać z interaktywnych, wygodnych w użyciu oraz niezawodnych aplikacji internetowych. Pojawienie się JavaScriptu pozwoliło zastąpić tradycyjne aplikacje desktopowe nowymi, pracującymi w chmurze. Wokół języka powstało już wiele narzędzi i bibliotek. Jedną z najpopularniejszych jest jQuery.",
+    "autor": "Jon Duckett",
+    "variant": "dark",
+    "img": "jsqwdv.jpg"
+  },
+  {
+    "id": 23,
+    "tytul": "Tworzenie aplikacji internetowych z użyciem Node i Express",
+    "dataWydania": "2018-12-30",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "Express i Node stały się kluczowymi narzędziami do tworzenia dynamicznych, wielostronicowych i hybrydowych aplikacji internetowych. Dzięki nim można dowolnie kształtować architekturę swojej aplikacji. Projektowanie za pomocą Node jest bardzo atrakcyjnym rozwiązaniem dla programistów, którzy doceniają dostępność i elastyczność języka JavaScript. W rzeczy samej, JavaScript ewoluował z techniki prostego ozdabiania stron internetowych, aby stać się dojrzałym, wszechstronnym, pełnoprawnym i wyjątkowo obiecującym językiem programowania. Korzystanie z niego jest o wiele bardziej satysfakcjonujące przy zastosowaniu platformy Express.",
+    "autor": "Ethan Brown",
+    "variant": "secoundary",
+    "img": "taine2.jpg"
+  },
+  {
+    "id": 24,
+    "tytul": "Angular. Profesjonalne techniki programowania",
+    "dataWydania": "2018-12-13",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "Framework Angular 2 jest dziś uważany za jeden z najwydajniejszych sposobów rozwijania średnich i dużych aplikacji internetowych. Te aplikacje działają bez problemu niezależnie od platformy. Separacja kodu interfejsu od logiki aplikacji, prosta modularyzacja aplikacji, bezproblemowe przetwarzanie danych asynchronicznych, bogaty zestaw narzędzi i ogromne ułatwienia podczas projektowania interfejsu użytkownika - to tylko kilka z wielu zalet Angulara. Nawet jednak tak świetny framework wymaga od programisty wiedzy i umiejętności prawidłowego budowania kodu.",
+    "autor": "Adam Freeman",
+    "variant": "secoundary",
+    "img": "angup2.jpg"
+  },
+  {
+    "id": 25,
+    "tytul": "JavaScript. Wzorce",
+    "dataWydania": "2018-11-07",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "Jakie jest najlepsze podejście do tworzenia aplikacji w języku JavaScript? Z tą książką, zawierającą najlepsze praktyki i wiele wzorców kodowania, znajdziesz odpowiedź na to pytanie. Jeśli jesteś doświadczonym programistą szukającym sposobów rozwiązania problemów związanych z obiektami, funkcjami, dziedziczeniem i innymi aspektami języka, przedstawione tu abstrakcje i szablony sprawdzą się idealnie.",
+    "autor": "Stoyan Stefanov",
+    "variant": "light",
+    "img": "jascwz.jpg"
+  },
+  {
+    "id": 26,
+    "tytul": "Angular w akcji",
+    "dataWydania": "2018-12-16",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "Framework Angular od wielu lat jest jednym z najważniejszych narzędzi do rozwijania średnich i dużych aplikacji internetowych. Co istotne, aplikacje te bez problemu działają w każdej nowoczesnej przeglądarce, a także na platformach mobilnych. Obecnie Angular jest dojrzałą, stabilną i wciąż ewoluującą technologią, a w kolejnych wydaniach frameworka pojawiają się nowe, ułatwiające pracę funkcje. Aplikacje napisane w Angularze opierają się na hierarchicznym systemie komunikujących się komponentów i na dobrze zbudowanych interfejsach API. Przejrzystość i zrozumiałe zasady rządzące tym systemem sprawiają, że nauka posługiwania się Angularem przychodzi szybko i jest bardzo satysfakcjonująca.",
+    "autor": "Jeremy Wilken",
+    "variant": "dark",
+    "img": "angakc.jpg"
+  },
+  {
+    "id": 27,
+    "tytul": "PHP i jQuery. Receptury",
+    "dataWydania": "2015-11-03",
+    "wydawnictwo": "Helion",
+    "kategoria": "Naukowe",
+    "opis": "Język PHP jest podstawowym językiem wybieranym przez twórców stron internetowych, a jQuery - jedną z najczęściej stosowanych bibliotek w sieci. To oczywiste: obie technologie są lekkie, łatwe w użyciu i nauce, a przy tym oferują ogromne możliwości tworzenia dynamicznych witryn i interaktywnych aplikacji WWW. W dodatku razem tworzą doskonale uzupełniający się zestaw wszechstronnych narzędzi dla webmasterów. Jednak w świecie informatyki nic nie jest ani doskonałe, ani dziecinnie proste - dlatego nawet w pracy z takim tandemem możesz napotkać pewne często powtarzające się trudności, które czasem znacznie opóźniają realizację projektu. By tego uniknąć, wykorzystaj ten zbiór ponad sześćdziesięciu prostych, ale wyjątkowo skutecznych receptur i rozwiązań, niezwykle przydatnych przy tworzeniu interaktywnych aplikacji WWW.",
+    "autor": "Vijay Joshi",
+    "variant": "danger",
+    "img": "phjqre.jpg"
+  }
+]
